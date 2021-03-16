@@ -4,7 +4,7 @@ int main(int argc, char const *argv[])
     long int num,rev=0;
     int n,r;
     printf("Enter any number:");
-    scanf("%d",&num);
+    scanf("%ld",&num);
     n=num;
     while (n!=0)
     {
