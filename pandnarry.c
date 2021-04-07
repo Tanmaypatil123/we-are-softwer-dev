@@ -45,7 +45,7 @@ int main()
 	int n;
     scanf("%d",&n);
     int arr[n];
-	n = sizeof(arr) / sizeof(arr[0]);
+
 
 	printArray(arr, n);
 
